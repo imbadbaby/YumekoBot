@@ -75,7 +75,7 @@ def get_readable_time(seconds: int) -> str:
 YUMEKO_IMG = "https://telegra.ph/file/b886a8196360590006602.jpg"
 
 PM_START_TEXT = """
-**Hey I am hori san   made by @Voidxtoxic** [ㅤ](https://telegra.ph/file/1075451594b47c191f194.jpg)
+**Hey I am hori san   made by @Voidxtoxic** [ㅤ](https://telegra.ph/file/3e3e01d347e1b33cf4959.jpg)
 ️➖➖➖➖➖➖➖➖➖➖➖➖➖
 **×I'm a anime themed Bot With Cool Modules. feel free to add me to your groups!**
 ️➖➖➖➖➖➖➖➖➖➖➖➖➖
@@ -84,7 +84,7 @@ PM_START_TEXT = """
 
 buttons = [
     [
-        InlineKeyboardButton(text="➕ Add horimiya To Your group ➕", url="http://t.me/?startgroup=true"),
+        InlineKeyboardButton(text="➕ Add hori san  To Your group ➕", url="http://t.me/its_my_horimiyabot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="About", callback_data="yumeko_"),
